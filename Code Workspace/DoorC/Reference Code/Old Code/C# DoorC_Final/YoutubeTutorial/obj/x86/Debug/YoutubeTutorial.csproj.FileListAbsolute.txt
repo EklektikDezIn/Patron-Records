@@ -1,0 +1,25 @@
+C:\Users\Micah Richards\Dropbox\Programming\C#\DoorC\YoutubeTutorial\bin\Debug\YoutubeTutorial.exe
+C:\Users\Micah Richards\Dropbox\Programming\C#\DoorC\YoutubeTutorial\bin\Debug\YoutubeTutorial.pdb
+C:\Users\Micah Richards\Dropbox\Programming\C#\DoorC\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Dropbox\Programming\C#\DoorC\YoutubeTutorial\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Micah Richards\Dropbox\Programming\C#\DoorC\YoutubeTutorial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Micah Richards\Dropbox\Programming\C#\DoorC\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Dropbox\Programming\C#\DoorC\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.exe
+C:\Users\Micah Richards\Dropbox\Programming\C#\DoorC\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\c# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.exe
+C:\Users\Micah Richards\Google Drive\Work\DoorC\c# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\c# DoorC_Final\YoutubeTutorial\bin\Debug\YoutubeTutorial.exe
+C:\Users\Micah Richards\Google Drive\Work\DoorC\c# DoorC_Final\YoutubeTutorial\bin\Debug\YoutubeTutorial.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\c# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Google Drive\Work\DoorC\c# DoorC_Final\YoutubeTutorial\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Micah Richards\Google Drive\Work\DoorC\c# DoorC_Final\YoutubeTutorial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Micah Richards\Google Drive\Work\DoorC\c# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\bin\Debug\YoutubeTutorial.exe
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\bin\Debug\YoutubeTutorial.pdb
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.exe
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# DoorC_Final\YoutubeTutorial\obj\x86\Debug\YoutubeTutorial.pdb

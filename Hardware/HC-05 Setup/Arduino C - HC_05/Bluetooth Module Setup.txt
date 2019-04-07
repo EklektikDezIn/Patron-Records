@@ -1,0 +1,6 @@
+Change Baud Rate to 115200  at+uart=115200,0,0
+Change Name to Door1...3    at+name=Door#
+Change Passkey to 1224      at+pswd=1224
+
+Reference:
+http://www.instructables.com/id/Modify-The-HC-05-Bluetooth-Module-Defaults-Using-A/?ALLSTEPS

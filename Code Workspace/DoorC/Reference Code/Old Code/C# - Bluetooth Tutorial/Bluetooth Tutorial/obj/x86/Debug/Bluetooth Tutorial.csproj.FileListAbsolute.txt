@@ -1,0 +1,3 @@
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\Reference Code\Old Code\C# - Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\Bluetooth Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\Reference Code\Old Code\C# - Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\Bluetooth_Tutorial.Form1.resources
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\Reference Code\Old Code\C# - Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\Bluetooth Tutorial.csproj.GenerateResource.Cache

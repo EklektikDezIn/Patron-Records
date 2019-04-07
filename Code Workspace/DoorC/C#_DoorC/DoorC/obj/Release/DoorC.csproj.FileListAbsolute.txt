@@ -1,0 +1,12 @@
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Release\DoorC.MainWindow.resources
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Release\DoorC.Properties.Resources.resources
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Release\DoorC.csproj.GenerateResource.Cache
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Release\DoorC.csproj.CoreCompileInputs.cache
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Release\DoorC.exe.config
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Release\DoorC.exe
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Release\DoorC.pdb
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Release\EPPlus.dll
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Release\DoorC.csprojResolveAssemblyReference.cache
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Release\DoorC.exe
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Release\DoorC.pdb

@@ -1,0 +1,57 @@
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\bin\Debug\DoorC.exe.config
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\bin\Debug\DoorC.exe
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\bin\Debug\DoorC.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\obj\Debug\DoorC.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\obj\Debug\DoorC.Form1.resources
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\obj\Debug\DoorC.Properties.Resources.resources
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\obj\Debug\DoorC.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\obj\Debug\DoorC.exe
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\obj\Debug\DoorC.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\bin\Debug\EPPlus.dll
+C:\Users\Micah Richards\Google Drive\Work\DoorC\DoorC\DoorC\bin\Debug\EPPlus.xml
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\bin\Debug\DoorC.exe.config
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.exe
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\bin\Debug\DoorC.exe
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\bin\Debug\DoorC.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\bin\Debug\EPPlus.xml
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.Form1.resources
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.Properties.Resources.resources
+C:\Users\Micah Richards\Google Drive\Work\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\bin\Debug\DoorC.exe.config
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\bin\Debug\DoorC.exe
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\bin\Debug\DoorC.pdb
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\bin\Debug\EPPlus.xml
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.Form1.resources
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.Properties.Resources.resources
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.csproj.CoreCompileInputs.cache
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.exe
+C:\Users\Micah Richards\Google Drive\Work\Library TShirt\DoorC\C# - Tutorial\DoorC\obj\Debug\DoorC.pdb
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.Properties.Resources.resources
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.exe
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.pdb
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Debug\DoorC.exe.config
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Debug\DoorC.exe
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Debug\DoorC.pdb
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Debug\EPPlus.xml
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.MainWindow.resources
+C:\Users\Micah Richards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.csproj.CoreCompileInputs.cache
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Debug\DoorC.exe.config
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Debug\DoorC.exe
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\bin\Debug\DoorC.pdb
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.MainWindow.resources
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.Properties.Resources.resources
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.csproj.GenerateResource.Cache
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.csproj.CoreCompileInputs.cache
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.exe
+C:\Users\MicahRichards\Google Drive\Work\Library\Patron Records\DoorC\C#_DoorC\DoorC\obj\Debug\DoorC.pdb

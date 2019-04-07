@@ -1,0 +1,20 @@
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\Bluetooth_Tutorial.Form1.resources
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\Bluetooth_Tutorial.Properties.Resources.resources
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\bin\Debug\Bluetooth Tutorial.exe
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\bin\Debug\Bluetooth Tutorial.pdb
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\Bluetooth Tutorial.exe
+C:\Users\Matt\documents\visual studio 2010\Projects\Bluetooth Tutorial\Bluetooth Tutorial\obj\x86\Debug\Bluetooth Tutorial.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\obj\x86\Debug\Bluetooth Tutorial.exe
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\obj\x86\Debug\Bluetooth Tutorial.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\bin\Debug\Bluetooth Tutorial.exe
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\bin\Debug\Bluetooth Tutorial.pdb
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\obj\x86\Debug\Bluetooth Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\obj\x86\Debug\Bluetooth_Tutorial.Form1.resources
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\obj\x86\Debug\Bluetooth_Tutorial.Properties.Resources.resources
+C:\Users\Micah Richards\Google Drive\Work\DoorC\Bluetooth Tutorial\obj\x86\Debug\Bluetooth Tutorial.csproj.GenerateResource.Cache

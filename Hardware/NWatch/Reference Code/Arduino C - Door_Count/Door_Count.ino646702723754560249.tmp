@@ -1,0 +1,69 @@
+#include <NewPing.h>
+#include <Wire.h>
+#include <SoftwareSerial.h>
+#include <string.h>
+int doorwidth = 100; //cm
+int trigger = 90; //cm
+#define rxPin 0
+#define txPin 1
+
+NewPing sonar(12, 11, doorwidth+20);
+SoftwareSerial mySerial(2, 3);
+
+void setup() {
+  
+  pinMode(9, OUTPUT);
+//  Serial.begin(9600);
+//  Serial.write("this is serial");
+  
+  mySerial.begin (115200);
+  mySerial.write("THIS IS MYSERIAL!!"); 
+}
+
+int ntime  = 0;
+int dist = 0;
+bool standing = false;
+int pings = 100;
+int pass = 0;
+int stand =0;
+void loop() {
+//  while (Serial.available() > 0) {
+//        // display each character to the LCD
+//       int letter = Serial.read();
+//      Serial.write("character sent\n");
+//      Serial.write((char)letter);
+//  }
+  if (millis()-ntime ==1000){
+    digitalWrite(9, LOW);
+  }
+  delay(pings);
+  dist = sonar.ping_cm();
+  mySerial.println(dist);
+  if (!standing){
+    if (dist<trigger-10){
+      stand++;
+      if (stand>=2){
+        standing = true;
+        digitalWrite(9, HIGH);
+        ntime = millis();
+        mySerial.println("A Person Has Passed Here");
+             
+        standing = true;
+        pings = 20;
+      }
+    }else{
+       stand = 0;
+    }
+       
+  }else{
+     if (dist<trigger-10){
+       pass=0;
+     }else{
+       pass++;
+       if (pass>=5){
+         standing = false;
+         pings = 100;
+       }
+     }
+   }
+ }

@@ -1,0 +1,114 @@
+#include <NewPing.h>
+#include <Wire.h>
+#include <SoftwareSerial.h>
+#include <string.h>
+bool CMode = false;
+int doorwidth = 100; //cm
+int trigger = 90; //cm
+int standp = 2;
+int p_slow = 100;
+int p_fast = 40;
+int dout = 2;
+
+NewPing sonar(12, 11, doorwidth+20);
+SoftwareSerial mySerial(2, 3);
+
+void setup() {
+  
+  pinMode(9, OUTPUT);
+//  Serial.begin(9600);
+//  Serial.write("this is serial");
+  
+  mySerial.begin (115200);
+}
+
+int stand =0;
+int pings = p_slow;
+int ntime  = 0;
+bool standing = false;
+int pass = 0;
+
+
+void loop() {
+String c = " ";
+  if (mySerial.available())
+    {  
+      c = mySerial.readString();
+    }
+  if (c == "DC+override"){
+    CMode = true;
+    mySerial.println("Command Mode active.");
+  }
+  if (CMode){
+    String message = "";
+      if (c.startsWith("DC+width")){
+        if (c.indexOf("=:") != -1){
+          doorwidth = c.substring(c.indexOf("=:")).toInt();
+        }
+        message = "Door width set to " + String(doorwidth) + " //This variable denotes the maximum width of the area over which you are trying to detect objects (cm) default 100";
+      }else if (c.startsWith("DC+trigger")){
+        if (c.indexOf("=:") != -1){
+          trigger = c.substring(c.indexOf("=:")).toInt();
+        }
+        message = "Trigger point set to " + String(trigger) + " //This variable denotes the maximum distance an object can be from the module and still be recognized (cm) default 90";
+      }else if (c.startsWith("DC+pslow")){
+        if (c.indexOf("=:") != -1){
+          p_slow = c.substring(c.indexOf("=:")).toInt();
+        }
+        message = "Slow ping rate set to " + String(p_slow) + " //This variable denotes the standard ping rate for the module (ms) default 100";
+      }else if (c.startsWith("DC+pfast")){
+        if (c.indexOf("=:") != -1){
+          p_fast = c.substring(c.indexOf("=:")).toInt();
+        }
+        message = "Fast ping rate set to " + String(p_fast) + " //This variable denotes the accelerated ping rate for detecting individuals in a group (ms) default 40";
+      }else if (c.startsWith("DC+stand")){
+        if (c.indexOf("=:") != -1){
+          standp = c.substring(c.indexOf("=:")).toInt();
+        }
+        message = "Standing time set to " + String(standp) + " //This variable denotes the number of pings required to guarantee an object is in front of the module (pings) default 2";
+      }else if (c.startsWith("DC+data")){
+        if (c.indexOf("=:") != -1){
+          dout = c.substring(c.indexOf("=:")).toInt();
+        }
+        message = "Output preference set to " + String(dout) + " //This variable sets the data output style (1 - All data | 2 - Only positive readings) default 2";
+      }else if (c.startsWith("DC+exit")){
+        CMode = false;
+        message = "Returning to default operation."; 
+      }
+      mySerial.println(message);
+  }else{
+    if (millis()-ntime ==1000){
+      digitalWrite(9, LOW);
+    }
+    delay(pings);
+    int dist = sonar.ping_cm();
+    mySerial.println(dist);
+    if (!standing){
+      if (dist<trigger-10){
+        stand++;
+        if (stand>=standp){
+          standing = true;
+          digitalWrite(9, HIGH);
+          ntime = millis();
+          mySerial.println("A Person Has Passed Here");
+             
+          standing = true;
+          pings = p_slow;
+        }
+      }else{
+        stand = 0;
+      }
+       
+    }else{
+      if (dist<trigger-10){
+        pass=0;
+      }else{
+        pass++;
+        if (pass>=5){
+          standing = false;
+          pings = p_fast;
+        }
+      }
+    }
+  }
+}
